@@ -1,0 +1,19 @@
+.far {
+    cursor: pointer;
+}
+
+.green-icon {
+    color: #198754;
+}
+
+.red-icon {
+    color: #dc3545;
+}
+
+.green-border {
+    border-color: #198754;
+}
+
+.red-border {
+    border-color: #dc3545;
+}
